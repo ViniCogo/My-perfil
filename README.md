@@ -5,7 +5,7 @@
 ![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCogo&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCogo&layout=compact)
 
 ## Tecnologias que uso no meu dia a dia
 
